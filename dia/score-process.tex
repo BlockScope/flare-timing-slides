@@ -3,7 +3,7 @@
 
 \node (task) [io, xshift=-6cm] {Define task};
 \node (fly) [process, below of=task] {Fly task};
-\node (track) [decision, below of=fly] {Evaluate track logs};
+\node (track) [decision, below of=fly] {Evaluate GPS track logs};
 \node (valid) [decision, below of=track] {Calculate task validity};
 \node (points) [decision, below of=valid] {Allocate available points};
 \node (score) [decision, below of=points] {Score flights};
