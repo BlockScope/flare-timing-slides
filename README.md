@@ -1,12 +1,19 @@
 # Flare Timing Elevator Pitch
 
 Flare Timing is a program for scoring HG and PG competitions.
+
 A comp pilot will fly a race task every day of a comp, wx permitting.
+
 At the morning briefing a task is declared as a list of TPs on the way to goal.
+
 We fly with a vario. This tells us whether we're going up or down.
+
 It also shows us the TPs and the glide angle to goal so that we can decide
+
 when to leave lift and dive for goal.
+
 As well it logs our GPS position every couple of seconds.
+
 A scorer will use the tracklog to work out;
 * What order pilots arrived in goal
 * How fast they flew
